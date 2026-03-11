@@ -2,7 +2,8 @@
 
 A high-fidelity, interactive 3D CRT Monitor display inspired by Todd Hamilton's design. This project utilizes WebGL (Three.js) and custom GLSL shaders to recreate a nostalgic analog screen effect with modern interactions.
 
-![Preview Placeholder](https://via.placeholder.com/1200x600/111/fff?text=Todd+Hamilton+CRT+Display+Preview)
+![Preview Placeholder](https://github.com/user-attachments/assets/92c151c6-d713-444a-90d8-04aa123eace6)
+
 
 ## ✨ Features
 
@@ -35,8 +36,8 @@ A high-fidelity, interactive 3D CRT Monitor display inspired by Todd Hamilton's 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/todd-hamilton-webgl.git
-   cd todd-hamilton-webgl
+   git clone https://github.com/Thakuma07/ToddHamilton-WEBGLAnimation.git
+   cd todd-hamilton
    ```
 
 2. **Install dependencies:**
@@ -85,4 +86,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by [thakuma.dev](https://thakuma.dev)
+Built with ❤️ by [thakuma.dev](https://github.com/Thakuma07)
