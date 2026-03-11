@@ -80,6 +80,11 @@ To add your own projects, simply update the `<ul>` list in `index.html`:
 
 The `script.js` will automatically handle loading the new texture and applying the glitch effect on hover.
 
+## 💎 Credits & Assets
+
+- **Monitor Model:** Free 3D model sourced from [Sketchfab](https://skfb.ly/orHwK).
+- **Model Optimization:** Cleaned and exported using the [Model Viewer Editor](https://modelviewer.dev/editor/).
+
 ## 📜 License
 
 This project is open-source and available under the [MIT License](LICENSE).
